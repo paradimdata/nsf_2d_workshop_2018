@@ -8,4 +8,6 @@
 1. Rendering JSON in a notebook: [https://github.com/caldwell/renderjson](https://github.com/caldwell/renderjson)
 
 
+## Interesting Reading:
 
+1.  JupyterCon is expensive, but a really fun way to see a lot of the Jupyter Landscape in one place. Here's an intriguing review: [http://willcrichton.net/notes/lessons-from-jupytercon/](http://willcrichton.net/notes/lessons-from-jupytercon/)
