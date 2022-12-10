@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/148356442.svg)](https://zenodo.org/badge/latestdoi/148356442)
+
 # NSF 2D Framework Workshop November 2018
 
 ##### Shared files for 2018 NSF 2D Materials Data Framework Training Workshop training organized by PARADIM and NIST
